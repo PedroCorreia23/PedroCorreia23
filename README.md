@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedro Piruzzo </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 I'm a passionate and athletic full-stack software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Engineering.
