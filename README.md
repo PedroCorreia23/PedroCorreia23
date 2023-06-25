@@ -23,11 +23,6 @@ I'm a passionate and athletic full-stack software developer from Portugal. Curre
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   </a>
 
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
@@ -56,11 +51,11 @@ I'm a passionate and athletic full-stack software developer from Portugal. Curre
 
 <!-- Latest YouTube Videos -->
 
-<h2 style="color: #44AEFB">🎦 Latest YouTube Videos</h2>
+
 <br />
 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
-<div class="youtube videos cards" align="center">
+
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking](https://ytcards.demolab.com/?id=Fd7PpBRQhNY&title=ASMR+Programming+-+Study+With+Me+-+Coding+Snake+Game+in+Python+Pygame+-+No+Talking&lang=en&timestamp=1682531289&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "ASMR Programming - Study With Me - Coding Snake Game in Python Pygame - No Talking")](https://www.youtube.com/watch?v=Fd7PpBRQhNY)
@@ -89,7 +84,7 @@ I'm a passionate and athletic full-stack software developer from Portugal. Curre
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+<!--![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
