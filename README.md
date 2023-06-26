@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedro Piruzzo </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedro Piruzzo aka Zini</h1>
 
 <!--![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))-->
 
