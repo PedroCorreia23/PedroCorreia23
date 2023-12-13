@@ -1,6 +1,7 @@
+<!--
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedro Piruzzo aka Zini</h1>
 
-<!--![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))-->
+<!--![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science.
@@ -12,7 +13,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 </div>
 </p>    
 <br>
-<!-- Languages and Tools -->
+<!-- Languages and Tools 
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
@@ -21,7 +22,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/
 <div align="center">
   </a>
 
@@ -57,7 +58,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 
-<!-- Statistics -->
+<!-- Statistics
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
@@ -67,7 +68,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+<!-- Change the value after ?username= to your GitHub username. 
 <div class="stats" align="center">
 
 ![Zini GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrocorreia23&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
@@ -76,7 +77,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
-<!-- compact programming languages layout -->
+<!-- compact programming languages layout 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorreia23&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
