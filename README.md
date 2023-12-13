@@ -1,5 +1,5 @@
 <!--
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Pedro Piruzzo aka Zini</h1>
+<h1 style="color: #44AEFB;">  Pedro Piruzzo aka Zini</h1>
 
 <!--![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))
 
@@ -15,7 +15,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <br>
 <!-- Languages and Tools 
 
-<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<h2 style="color: #44AEFB">⚙ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
@@ -50,7 +50,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <br>
 <br>
 
-<!-- Latest YouTube Videos -->
+<!-- Latest YouTube Videos -
 
 
 <br />
@@ -60,7 +60,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 
 <!-- Statistics
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+<h2 style="color: #44AEFB"> Statistics</h2>
 
 <!--![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 
