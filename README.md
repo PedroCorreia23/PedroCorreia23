@@ -50,11 +50,11 @@ I am always eager to learn new technologies and take on challenging projects tha
 
 
 <!--Statistics -->
-<h2 style="color: #44AEFB"> Statistics</h2>
+<!--<h2 style="color: #44AEFB"> Statistics</h2>
 [stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 
- Begin Stats Cards -->
- Resources:  -->
+ <!--Begin Stats Cards -->
+ <!--Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
 <!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
 <!-- Change the value after ?username= to your GitHub username. 
