@@ -1,9 +1,13 @@
 
 <h1 style="color: #44AEFB;">  Pedro Piruzzo aka Zini</h1>
 
-(https://www.everypixel.com/image-3416386234726944793)
+<!--(https://www.everypixel.com/image-3416386234726944793) -->
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science.
+I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science. With a strong passion for technology and coding, I constantly seek to expand my knowledge and skills in software development.
+
+Over the years, I have gained experience in various programming languages and frameworks, and I enjoy working on both personal and collaborative projects. My main areas of interest include web development, mobile applications, and blockchain technology. Since 2021, I have been actively involved in the cryptocurrency space, exploring new projects and staying updated with the latest advancements in Web3 and decentralized finance (DeFi).
+
+I am always eager to learn new technologies and take on challenging projects that push the boundaries of my capabilities. My goal is to create innovative solutions that make a positive impact on the world.
 <br>
 <br>
 <div align="center">
