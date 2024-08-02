@@ -1,8 +1,7 @@
-@@ -1,100 +1 @@
-<!--
+
 <h1 style="color: #44AEFB;">  Pedro Piruzzo aka Zini</h1>
 
-<!--![github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))
+[github_cover_banner]((https://www.everypixel.com/image-3416386234726944793))
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science.
 <br>
@@ -11,15 +10,15 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 </div>
 </p>    
 <br>
-<!-- Languages and Tools 
+Languages and Tools 
 <h2 style="color: #44AEFB">⚙ Languages and Tools</h2>
 <div align="center" style="display:block;">
     <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
 </div>
 <br>   
-<!-- Icons Resources -->
-<!-- https://devicon.dev/ -->
-<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/
+Icons Resources -->
+https://devicon.dev/ -->
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/
 <div align="center">
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
@@ -46,7 +45,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <!-- Resource/Reference: https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
 
-<!-- Statistics
+Statistics
 <h2 style="color: #44AEFB"> Statistics</h2>
 <!--![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)-->
 
