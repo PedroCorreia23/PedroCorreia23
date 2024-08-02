@@ -1,7 +1,7 @@
 
 <h1 style="color: #44AEFB;">  Pedro Piruzzo aka Zini</h1>
 
-((https://www.everypixel.com/image-3416386234726944793))
+(https://www.everypixel.com/image-3416386234726944793)
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science.
 <br>
