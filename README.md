@@ -68,7 +68,7 @@ I am always eager to learn new technologies and take on challenging projects tha
 </div>
 <!--  End Stats Cards -->
 
----
+<!-- --- -->
 <!-- Begin Footer -->
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
