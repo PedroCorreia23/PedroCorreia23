@@ -18,7 +18,7 @@ I'm an enthusiastic software developer from Portugal. Currently, I am a student 
 <br>   
 <!--Icons Resources -->
 <!--https://devicon.dev/ -->
-https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/
+<!--https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
   </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/
 ![GitHub Streak](https://streak-stats.demolab.com?user=pedrocorreia23&count_private=true&theme=algolia&border_radius=20)
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
 
- compact programming languages layout 
+ <!--compact programming languages layout 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocorreia23&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
