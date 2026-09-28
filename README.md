@@ -3,11 +3,15 @@
 
 <!--(https://www.everypixel.com/image-3416386234726944793) -->
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-I'm an enthusiastic software developer from Portugal. Currently, I am a student at the University of Coimbra, pursuing a degree in Computer Science. With a strong passion for technology and coding, I constantly seek to expand my knowledge and skills in software development.
+I'm a Computer Science graduate from the University of Coimbra, currently expanding my knowledge through postgraduate studies and personal software projects.
 
-Over the years, I have gained experience in various programming languages and frameworks, and I enjoy working on both personal and collaborative projects. My main areas of interest include web development, mobile applications, and blockchain technology. Since 2021, I have been actively involved in the cryptocurrency space, exploring new projects and staying updated with the latest advancements in Web3 and decentralized finance (DeFi).
+I’m particularly interested in Software Engineering, Backend Development, Artificial Intelligence and Data, and I enjoy building projects that allow me to explore new technologies while applying good software engineering practices.
 
-I am always eager to learn new technologies and take on challenging projects that push the boundaries of my capabilities. My goal is to create innovative solutions that make a positive impact on the world.
+I’m also interested in Artificial Intelligence and Large Language Models, and I’m currently exploring technologies and concepts related to LLM-based applications, prompt engineering and AI-powered software.
+
+Since 2021, I have also followed the blockchain and Web3 ecosystem, which sparked my interest in decentralized technologies and emerging software architectures.
+
+I’m always looking for opportunities to learn, build and contribute to interesting projects.
 <br>
 <br>
 <div align="center">
