@@ -7,7 +7,7 @@ I'm a Computer Science graduate from the University of Coimbra, currently expand
 
 I’m particularly interested in Software Engineering, Backend Development, Artificial Intelligence and Data, and I enjoy building projects that allow me to explore new technologies while applying good software engineering practices.
 
-I’m also interested in Artificial Intelligence and Large Language Models, and I’m currently exploring technologies and concepts related to LLM-based applications, prompt engineering and AI-powered software.
+I’m also interested in Artificial Intelligence and Large Language Models, and I’m currently deepening my understanding of how these technologies work, how they can be applied in practice, and the engineering challenges involved in building applications around them.
 
 Since 2021, I have also followed the blockchain and Web3 ecosystem, which sparked my interest in decentralized technologies and emerging software architectures.
 
